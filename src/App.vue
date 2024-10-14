@@ -12,3 +12,4 @@ import Navbar from './views/NavBar.vue';
 <style>
 /* Seu estilo principal */
 </style>
+
